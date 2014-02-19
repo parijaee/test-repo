@@ -1,0 +1,11 @@
+............(ð.
+...............
+........msvbvm60
+.dll....rtcCharV
+alueBstr....Meth
+CallEngine....rt
+cAnsiValueBstr..
+..rtcLowerCaseVa
+r...rtcGetObject
+....rtcTrimBstr.
+..rtcVarFromFor
